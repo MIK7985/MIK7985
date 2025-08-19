@@ -43,7 +43,7 @@
 - 🏋️‍♂️ [GYMmate](https://github.com/muhammedirfank/gymmate) – Gym Management System built with Django
 - 💸 [KanakkuBook](https://github.com/muhammedirfank/kanakkubook) – Financial Dashboard with Charts & Analytics
 - 🌐 [Technopanels Website](https://technopanels.in)
-- 🌍 [My Portfolio](https://muhammedirfank.in)
+- 🌍 [My Portfolio](https://muhammedirfank.site)
 
 ---
 
